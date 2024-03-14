@@ -1,4 +1,4 @@
-package world.xadrez.entities;
+package world.xadrez.entities.boardgame;
 
 public class Piece {
 	protected Position position;
